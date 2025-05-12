@@ -1,0 +1,15 @@
+.vs
+ 
+**/obj/
+**/bin/
+
+# Ignorar arquivos binários e builds
+bin/
+obj/
+.vs/
+*.dll
+*.exe
+*.mp4
+*.docx
+*.db
+*.db-wal
